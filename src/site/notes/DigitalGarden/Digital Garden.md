@@ -1,5 +1,5 @@
 ---
-{"date_created":"2024-02-14T17:31:00","date_modified":"2024-02-14 17:31","tags":["inbox"],"dg-publish":true,"dg-home":false,"permalink":"/digital-garden/digital-garden/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-02-14T17:31:00","updated":"2024-02-14 17:31"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["inbox"],"noteIcon":"","created":"2024-02-14T17:31:00","updated":"2024-02-14 17:31"}
 ---
 
 # Index page!
